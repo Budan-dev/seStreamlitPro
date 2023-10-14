@@ -1,0 +1,18 @@
+# Ignore the virtual environment directory and its contents
+venv/
+
+# Ignore virtual environment activation scripts 
+Scripts/
+
+# Ignore virtual environment etc directory
+etc/
+
+
+# Ignore virtual environment Python interpreter and libraries 
+lib/
+
+# Ignore virtual environment share directory 
+share/
+
+# Ignore virtual environment C API header files 
+include/
